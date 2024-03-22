@@ -31,6 +31,6 @@ function calculaTempo(tempoObjetivo) {
     return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos";
 
 
-
+}
 
 
